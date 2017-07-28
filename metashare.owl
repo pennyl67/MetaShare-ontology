@@ -1028,6 +1028,8 @@
   </owl:DatatypeProperty>
   <owl:ObjectProperty rdf:about="http://purl.org/net/def/metashare#actualUseInfo">
     <rdfs:comment xml:lang="en">Groups information on how the resource has already been used</rdfs:comment>
+	<rdfs:label xml:lang="en">actual use info</rdfs:label>
+    <rdfs:label xml:lang="es">información de uso</rdfs:label>
     <rdfs:domain rdf:resource="http://purl.org/net/def/metashare#LanguageResource"/>
     <rdfs:range rdf:resource="http://purl.org/net/def/metashare#ActualUseInfo"/>
   </owl:ObjectProperty>
